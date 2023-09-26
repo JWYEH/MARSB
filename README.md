@@ -1,6 +1,6 @@
-# MarketFunding_Models (Channel MARS Shiny App)
+# MarketFunding_Models (Channel Shiny App)
 
-R Shiny App for Channel's Market Funding Recommender System (MARS)
+R Shiny App for Channel's Market Funding Recommender
 
 ## Local Deployment in R/RStudio:
 1. Run following command to correctly set working directory:
